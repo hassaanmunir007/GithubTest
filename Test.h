@@ -1,12 +1,8 @@
-#include <iostream>
-using namespace std;
+
+#pragma
 class Test
 {
 
-	int main() {
-		cout << "Test Done";
-		return 0;
-	}
 
 };
 
